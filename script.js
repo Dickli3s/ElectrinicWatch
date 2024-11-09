@@ -3,4 +3,4 @@
 // }
 
 
-document.getElementById('clock').textContent = '324';
+document.getElementById('clock').textContent = new Date();
